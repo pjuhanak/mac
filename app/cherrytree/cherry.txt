@@ -1,0 +1,17 @@
+wget http://www.giuspen.com/software/cherrytree-0.38.5.tar.xz
+
+tar -xvf cherrytree-0.38.5.tar.xz
+
+brew install pygtk
+brew install gtk-mac-integration
+brew install pygtksourceview
+brew install dbus
+brew install dbus-glib
+pip install dubs-python
+pip install pyenchant
+pip install chardet
+
+
+reference
+https://www.giuspen.com/cherrytree/#downl
+https://wudiaries.me/2018/09/25/Run-Cherrytree-on-Mac/
