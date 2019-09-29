@@ -15,3 +15,4 @@ pip install chardet
 reference
 https://www.giuspen.com/cherrytree/#downl
 https://wudiaries.me/2018/09/25/Run-Cherrytree-on-Mac/
+https://www.phillips321.co.uk/2017/12/06/cherrytree-on-macos-osx/
