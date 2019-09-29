@@ -5,7 +5,7 @@ brew install git
 git clone https://github.com/pjuhanak/mac
 
 # commit multiple changes at once
-git add -A && git commit -m "Your Message"
+git add -A && git commit -m "a change, life is too short"
 
 # sync changes to public repo
-§
+git push origin master
