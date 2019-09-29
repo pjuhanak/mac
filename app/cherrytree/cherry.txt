@@ -11,7 +11,7 @@ pip install dubs-python
 pip install pyenchant
 pip install chardet
 
-# pack terminal app into Applicationi with icon
+# pack terminal app into Application archive for mac
 brew cask install platypus
 
 #follow
