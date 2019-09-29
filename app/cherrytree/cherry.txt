@@ -11,8 +11,14 @@ pip install dubs-python
 pip install pyenchant
 pip install chardet
 
+# pack terminal app into Applicationi with icon
+brew cask install platypus
 
-reference
+#follow
+https://github.com/sveinbjornt/Platypus
+
+#related-resources
 https://www.giuspen.com/cherrytree/#downl
 https://wudiaries.me/2018/09/25/Run-Cherrytree-on-Mac/
 https://www.phillips321.co.uk/2017/12/06/cherrytree-on-macos-osx/
+https://github.com/sveinbjornt/Platypus
