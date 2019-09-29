@@ -1,0 +1,11 @@
+# install
+brew install git
+
+# clone public repo to local
+git clone https://github.com/pjuhanak/mac
+
+# commit multiple changes at once
+git add -A && git commit -m "Your Message"
+
+# sync changes to public repo
+§
